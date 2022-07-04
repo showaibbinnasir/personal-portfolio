@@ -8,7 +8,7 @@ h1{
     font-size: 50px;
 }
 
-#name{
+.name{
     color: #F47D2B;
 }
 
@@ -17,7 +17,7 @@ h1{
     margin-left: 17%;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 30px;
 }
@@ -53,3 +53,12 @@ section{
     background-size: cover;
     height: 700px;
 }
+
+#exp{
+    text-align: center;
+}
+
+.details{
+    text-align: justify;
+}
+

@@ -54,11 +54,29 @@ h1{
     height: 700px;
 }
 
-#exp{
+.exp{
     text-align: center;
 }
 
 .details{
     text-align: justify;
 }
+.experience-item{
+    width: 40%;
+    padding: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 5%;
+    border-radius: 0px 0px 7px 7px; 
+}
+.footerPart{
+    background-image: url(../images/asset.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#programming{
+    border-top: 7px solid #F47D2B;
+}
 
+#artist{
+    border-top: 7px solid #4A83C4;
+}
